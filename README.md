@@ -13,5 +13,5 @@ My dotfiles in Linux-Mint XFCE
 ### Wallpaper: 
   [Wallpaper](#)
 ### Fonts:
-  Nerd Fonts
+  Nerd Font
 
